@@ -6,4 +6,3 @@ You can also get help from the wiki.
 # Information about save
 The `game_data.sav` file contains a save game of Zelda Breath of The Wild with these benefits:
 [Image](
-aa
