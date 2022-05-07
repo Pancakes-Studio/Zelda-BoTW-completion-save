@@ -6,3 +6,6 @@ You can also get help from the wiki.
 # Information about save
 The `game_data.sav` file contains a save game of Zelda Breath of The Wild with these benefits:
 [Image](
+
+#Website
+You can find the site [here](https://pancakes-studio.github.io/Zelda-BoTW-completion-save/). It will be cleaner and explained.
